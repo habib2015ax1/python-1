@@ -1,8 +1,8 @@
-chipbag1 = int(input("enter the amount of chipbag"))
-chipbag2 = int(input("enter the amount of chipbag"))
-chipbag3 = int(input("enter the amount of chipbag"))
-chipbag4 = int(input("enter the amount of chipbag"))
-chipbag5 = int(input("enter the amount of chipbag"))
-sum = chipbag1 + chipbag2 + chipbag3 + chipbag4 + chipbag5
+anything1 = int(input("enter the amount of anyting"))
+anything2 = int(input("enter the amount of anyting"))
+anything3 = int(input("enter the amount of anyting"))
+anything4 = int(input("enter the amount of anyting"))
+anything5 = int(input("enter the amount of anyting"))
+sum = anything1 + anything2 + anything3 + anything4 + anything5
 avg = sum / 5 
-print ("avg of chipbag is",avg)
+print ("avg of anything is",avg)
