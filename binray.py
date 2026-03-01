@@ -1,4 +1,4 @@
-09
+0
 decimal_num = int(input("Enter a decimal number: "))
 
 
