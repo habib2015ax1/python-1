@@ -1,0 +1,11 @@
+import turtle
+
+
+turtle.Screen().bgcolor("red")
+turtle.Screen().setup(400,400,0,0)
+Square=turtle.Turtle()
+for i in range(0,2,1):
+    Square.forward(150)
+    Square.right(90)
+    
+turtle.done() 
