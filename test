@@ -1,0 +1,13 @@
+dictionary = {"habib":92.9,"ali":89.2,"omar":67.7,"jad":29.1,"carter":91.9}
+max_score = max(dictionary.values())
+print(max_score)
+print (dictionary)
+min_score= min(dictionary.values())
+print (min_score)
+for key,value in dictionary.items():
+    print (key,value)
+
+name=input("enter the name for which you want to see the score")
+score=(dictionary.get(name))
+print (score)
+
